@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vikaus Hassan Mir @mirvakas
-- 👀 I’m interested in Data Science and Machiine Learning.
-- 🌱 I’m currently learning Data Science and Machiine Learning.
+- I am a Program Manager, I do Business Analytics and write Python code as a hobby.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science and Machiine Learning
 - 📫 You can reach me at mirvakas@gmail.com, Instagram @mirvakas, Twitter @mirvakas
 
